@@ -38,7 +38,7 @@
   <li>Run the script by executing the following command:</li>
 </ol>
 
-<pre><code>python web_crawler.py</code></pre>
+<pre><code>python seccrawl.py</code></pre>
 
 <li>Follow the on-screen prompts:</li>
 
